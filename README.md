@@ -38,7 +38,6 @@ The major objectives of this project are:
 | Technology | Purpose |
 |---|---|
 | MongoDB | NoSQL database storage |
-| PyMongo | MongoDB-Python connectivity |
 | Microsoft Power BI | Visualization |
 | Jupyter Notebook | Development environment |
 
