@@ -255,7 +255,6 @@ db.sales.aggregate([
 ])
 ```
 
----
 
 
 ---
