@@ -133,8 +133,8 @@ Example MongoDB document:
            |
            v
 +----------------------+
-| Data Cleaning &      |
-| Preprocessing        |
+|  Data Cleaning &     |
+|   Preprocessing      |
 +----------+-----------+
            |
            v
