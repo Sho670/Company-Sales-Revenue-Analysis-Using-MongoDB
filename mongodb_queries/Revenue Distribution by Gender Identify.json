@@ -1,0 +1,15 @@
+[{
+  "_id": null,
+  "Revenue": 641.53,
+  "Orders": 1
+},
+{
+  "_id": "F",
+  "Revenue": 3945069,
+  "Orders": 17061
+},
+{
+  "_id": "M",
+  "Revenue": 4298747,
+  "Orders": 17805
+}]
