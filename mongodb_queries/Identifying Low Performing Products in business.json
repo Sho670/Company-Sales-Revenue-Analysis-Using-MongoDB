@@ -1,0 +1,50 @@
+[{
+  "_id": null,
+  "TotalRevenue": 641.53,
+  "UnitsSold": 0
+},
+{
+  "_id": "Bike Racks",
+  "TotalRevenue": 32746,
+  "UnitsSold": 204
+},
+{
+  "_id": "Bike Stands",
+  "TotalRevenue": 35288,
+  "UnitsSold": 304
+},
+{
+  "_id": "Socks",
+  "TotalRevenue": 61237,
+  "UnitsSold": 750
+},
+{
+  "_id": "Vests",
+  "TotalRevenue": 67078,
+  "UnitsSold": 636
+},
+{
+  "_id": "Cleaners",
+  "TotalRevenue": 82887,
+  "UnitsSold": 1102
+},
+{
+  "_id": "Hydration Packs",
+  "TotalRevenue": 100411,
+  "UnitsSold": 786
+},
+{
+  "_id": "Shorts",
+  "TotalRevenue": 118074,
+  "UnitsSold": 1129
+},
+{
+  "_id": "Gloves",
+  "TotalRevenue": 219714,
+  "UnitsSold": 913
+},
+{
+  "_id": "Caps",
+  "TotalRevenue": 255992,
+  "UnitsSold": 3020
+}]
