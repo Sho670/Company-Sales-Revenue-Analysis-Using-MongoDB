@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "year": 2016,
+    "month": "January"
+  },
+  "Revenue": 667158
+},
+{
+  "_id": {
+    "year": 2016,
+    "month": "March"
+  },
+  "Revenue": 709382
+},
+{
+  "_id": {
+    "year": 2016,
+    "month": "February"
+  },
+  "Revenue": 665611
+},
+{
+  "_id": {
+    "year": 2016,
+    "month": "April"
+  },
+  "Revenue": 746337
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "June"
+  },
+  "Revenue": 54110
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "January"
+  },
+  "Revenue": 33544
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "September"
+  },
+  "Revenue": 551515
+},
+{
+  "_id": {},
+  "Revenue": 641.53
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "December"
+  },
+  "Revenue": 793262
+},
+{
+  "_id": {
+    "year": 2016,
+    "month": "May"
+  },
+  "Revenue": 813088
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "March"
+  },
+  "Revenue": 33867
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "July"
+  },
+  "Revenue": 213262
+},
+{
+  "_id": {
+    "year": 2016,
+    "month": "June"
+  },
+  "Revenue": 819505
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "May"
+  },
+  "Revenue": 57991
+},
+{
+  "_id": {
+    "year": 2016,
+    "month": "July"
+  },
+  "Revenue": 297323
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "August"
+  },
+  "Revenue": 540765
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "November"
+  },
+  "Revenue": 575490
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "April"
+  },
+  "Revenue": 51592
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "February"
+  },
+  "Revenue": 39783
+},
+{
+  "_id": {
+    "year": 2015,
+    "month": "October"
+  },
+  "Revenue": 580231
+}]
