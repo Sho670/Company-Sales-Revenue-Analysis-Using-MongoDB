@@ -1,0 +1,40 @@
+[{
+  "_id": "California",
+  "Revenue": 2490858
+},
+{
+  "_id": "England",
+  "Revenue": 1496497
+},
+{
+  "_id": "Washington",
+  "Revenue": 1232427
+},
+{
+  "_id": "Oregon",
+  "Revenue": 581582
+},
+{
+  "_id": "Saarland",
+  "Revenue": 292664
+},
+{
+  "_id": "Nordrhein-Westfalen",
+  "Revenue": 280528
+},
+{
+  "_id": "Seine (Paris)",
+  "Revenue": 258499
+},
+{
+  "_id": "Hessen",
+  "Revenue": 250310
+},
+{
+  "_id": "Hamburg",
+  "Revenue": 197557
+},
+{
+  "_id": "Nord",
+  "Revenue": 195054
+}]
