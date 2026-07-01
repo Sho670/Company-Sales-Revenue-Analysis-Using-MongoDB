@@ -22,7 +22,7 @@ The primary goal of this project is to demonstrate how MongoDB can be used for r
 
 # Objectives
 
-The major objectives of this project are:
+The major objectives of this project will be:
 
 - Store company sales data in MongoDB collections.
 - Perform data cleaning and preprocessing.
