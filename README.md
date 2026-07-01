@@ -3,7 +3,7 @@
 # <p align="center" style="font-size: 55px;"> <b> </b>**Company-Sales-Revenue-Analysis-Using-MongoDB**</p>
 
 <p align="center">
-  <b>Insights about Company Sales with Visualizations</b><br>
+  <b>Insights using Company Sales dataset with Power BI Visualizations</b><br>
    <i> 🚀🚀🚀 </i>     
 </p>
 
