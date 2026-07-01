@@ -6,6 +6,10 @@ MongoDB Compass
 
 Microsoft Power BI
 
+# Editor
+
+Microsoft Power BI Query Editor
+
 # Dataset Used
 
 Revenue_Sales Dataset
