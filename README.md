@@ -14,9 +14,12 @@
 
 ## Project Overview
 
-This project focuses on analyzing company sales and revenue data using **MongoDB**, a NoSQL document-oriented database. The system is designed to store, process, and analyze large volumes of business transaction data efficiently. By using MongoDB aggregation pipelines, the project generates valuable business insights such as revenue trends, product performance, customer behavior, and regional sales analysis with the use of visualization tool as Microsoft Power BI.
+This project focuses on analyzing company sales and revenue data using **MongoDB**, a NoSQL document-oriented database. The system is designed to store, process, and analyze large volumes of business transaction data efficiently. 
 
-The primary goal of this project is to demonstrate how MongoDB can be used for real-world business analytics and decision-making processes. The project combines database management, data preprocessing, analytical querying, and visualization techniques to create a complete sales analytics solution.
+By using MongoDB aggregation pipelines, the project generates valuable business insights such as revenue trends, product performance, customer behavior, and regional sales analysis with the use of visualization tool as Microsoft Power BI.
+
+The primary goal of this project is to demonstrate how MongoDB can be used for real-world business analytics and decision-making processes. 
+The project combines database management, data preprocessing, analytical querying, and visualization techniques to create a complete sales analytics solution.
 
 ---
 
