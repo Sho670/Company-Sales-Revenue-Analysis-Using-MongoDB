@@ -2,10 +2,10 @@
 
 MongoDB Compass
 
-# Visualization
+# Data Visualization Tool
 
 Microsoft Power BI
 
-# Dataset
+# Dataset Used
 
 Revenue_Sales Dataset
