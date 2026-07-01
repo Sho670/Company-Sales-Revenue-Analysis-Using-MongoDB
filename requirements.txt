@@ -6,7 +6,7 @@ MongoDB Compass
 
 Microsoft Power BI
 
-# Editor
+# Dataset Editor
 
 Microsoft Power BI Query Editor
 
