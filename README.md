@@ -31,7 +31,6 @@ The major objectives of this project will be:
 - Perform data cleaning and preprocessing.
 - Analyze revenue, profit, and sales performance.
 - Generate business insights using MongoDB aggregation.
-- Visualize trends and key performance indicators (KPIs).
 - Integrate MongoDB for advanced analysis.
 
 ---
