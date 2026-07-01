@@ -67,7 +67,7 @@ The dataset used in this project contains company sales transaction records. Eac
 | Revenue | Total revenue generated |
 | Cost | Product cost |
 | Product Sub Category | Sub Category of product |
-| Region / State | Sales region/location |
+| State | Sales region/location |
 
 
 ---
@@ -185,7 +185,7 @@ Example MongoDB document:
                 v                               v
      +----------------------+       +----------------------+
      |      MongoDB         |       |  Visualization Tools |
-     |      companyDB       |       |   Microsoft Power BI |
+     |      companyDB       |       | [Microsoft Power BI] |
      |  sales collection    |       +----------------------+
      +----------+-----------+
                 |
@@ -205,9 +205,8 @@ Example MongoDB document:
 2. Data cleaning and preprocessing are performed to remove errors and missing values.
 3. Cleaned data is imported into MongoDB collections.
 4. MongoDB aggregation pipelines are used for querying and analysis.
-5. Pandas processes and analyzes the retrieved data.
-6. Visualization libraries generate charts and reports.
-7. Final business insights are obtained from the analysis.
+5. Visualization libraries generate charts and reports.
+6. Final business insights are obtained from the analysis.
 
 
 ---
