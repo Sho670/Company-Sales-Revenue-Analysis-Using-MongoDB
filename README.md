@@ -3,7 +3,7 @@
 # <p align="center" style="font-size: 55px;"> <b> </b>**Company-Sales-Revenue-Analysis-Using-MongoDB**</p>
 
 <p align="center">
-  <b>Insights using Company Sales dataset with Power BI Visualizations</b><br>
+  <b>Analysis using Company Sales dataset with Power BI Visualizations</b><br>
    <i> 🚀🚀🚀 </i>     
 </p>
 
@@ -341,7 +341,7 @@ This project helps organizations improve strategic planning, monitor revenue per
 
 # Final Note
 
-This project demonstrates the power of combining **MongoDB** with **data analytics techniques** to transform raw business data into meaningful insights. 
+This project demonstrated the effective analysis of combining **MongoDB** with **data analytics techniques** to transform raw business data into meaningful insights. 
 
 By analyzing sales, revenue, customer behavior, and product performance, organizations can make smarter and more strategic business decisions.
 
