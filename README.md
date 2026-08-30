@@ -303,7 +303,7 @@ The following KPIs are analyzed:
 
 ---
 
-# Expected Outcomes
+# Outcomes Provided
 
 After successful implementation, the project provides:
 
